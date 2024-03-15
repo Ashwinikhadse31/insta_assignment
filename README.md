@@ -1,1 +1,1 @@
-![alt text](</home/b32/html_css_js/insta_assignment/imgs/Screenshot from 2024-03-15 19-46-43.png>)
+![alt text](<./imgs/Screenshot from 2024-03-15 19-46-43.png>)
